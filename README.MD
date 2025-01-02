@@ -34,10 +34,10 @@ npm run dev
 
 | route               | description                                          
 |----------------------|-----------------------------------------------------
-| <kbd>POST /api/calculadora</kbd>     | realiza o calculo conforme as opereções - [response details](#get-auth-detail)
+| <kbd>POST /api/calculadora</kbd>     | realiza o calculo conforme as opereções - [response details](#post-auth-detail)
 
 
-### POST /api/calculadora
+<h3 id="post-auth-detail">POST /api/calculadora</h3>
 
 REQUEST
 
