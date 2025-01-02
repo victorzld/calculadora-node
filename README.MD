@@ -35,7 +35,7 @@ npm run dev
 | route               | description                                          
 |----------------------|-----------------------------------------------------
 | <kbd>POST /api/calculadora</kbd>     | realiza o calculo conforme as opereções - [response details](#get-auth-detail)
-|
+
 
 ### POST /api/calculadora
 
